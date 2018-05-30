@@ -1,3 +1,10 @@
+name: yaki martin
+username github: yakimartin
+Estimation of hours I worked on it: 3h
+
+
+
+
 # Learn Tape
 [![Build Status](https://travis-ci.org/dwyl/learn-tape.png?branch=master)](https://travis-ci.org/dwyl/learn-tape)
 [![codecov](https://codecov.io/gh/dwyl/learn-tape/branch/master/graph/badge.svg)](https://codecov.io/gh/dwyl/learn-tape/branch/master)
